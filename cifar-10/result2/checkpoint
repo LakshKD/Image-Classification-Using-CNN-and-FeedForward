@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/development/lakshya/mtp_matter/DataMiningProject/Imagetagging/cifar-10/model.ckpt"
+all_model_checkpoint_paths: "/home/development/lakshya/mtp_matter/DataMiningProject/Imagetagging/cifar-10/model.ckpt"
